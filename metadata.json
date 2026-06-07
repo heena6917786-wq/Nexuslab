@@ -1,0 +1,6 @@
+{
+  "name": "Nexus Lab",
+  "description": "Professional freelance web design studio website showing portfolio work, testimonials, design blog posts, and an inquiries form.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
